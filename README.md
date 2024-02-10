@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I'm a second-year student at Politechnika Rzeszowska. <br>🔧 Currently working on a food ordering website.
+👨‍🎓 I'm a second-year Computer Science student at Rzeszów University of Technology. <br>🥣 I'm currently working on a food ordering website.
 
 
 # 💻 Tech Stack:
