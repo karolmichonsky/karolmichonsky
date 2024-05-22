@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I'm a second-year Computer Science student at Rzeszów University of Technology. <br>🥣 I'm currently working on a food ordering website. <br> 🏫 This semester, I’ll be developing a bookstore and recipe website with React and Tailwind alongside my colleagues.<br>🧑‍🔬 In addition, I will start a comparision study to compare various AI algorithms, including LEARNBP, LVQ, LSTM, and DT, to rate their performance and effectiveness
+👨‍🎓 I'm a second-year Computer Science student at Rzeszów University of Technology. <br> 🏫 I'm currently working on a bookstore and recipe website made with React and Tailwind alongside my colleagues.<br>🧑‍🔬 In addition, I'm on a creating a comparision study to compare various AI algorithms, including LEARNBP, LVQ, LSTM, and DT, to rate their performance and effectiveness
 
 
 
